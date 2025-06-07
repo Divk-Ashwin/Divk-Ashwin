@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ashwin Divakaruni 👋
+# Hi there, I'm Divakaruni Naga Ashwin 👋
 
 **Welcome to my GitHub! I'm a Computer Science Engineering (CSE) student passionate about technology, programming, and problem-solving.** 
 
