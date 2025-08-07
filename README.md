@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 - 🎓 **B.Tech CSE Student** from Osmania University.
-- 🌱 **Currently Learning:** Artificial Intelligence
+- 🌱 **Currently Learning:** Artificial Intelligence, Deep Learning and Cryptography
 - 💼 **Aspiring Software Engineer/Developer**, exploring opportunities in development, AI, and Cyber Security.
 - 💡 Always open to collaborating on interesting projects and learning new technologies.
 
