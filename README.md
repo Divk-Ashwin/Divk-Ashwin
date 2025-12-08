@@ -67,9 +67,8 @@
 ---
 
 ### 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divk-Ashwin&theme=dracula&no-frame=true&margin-w=15&row=1&column=7" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Divk-Ashwin" />
+
 
 
 
