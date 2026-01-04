@@ -76,7 +76,7 @@
 ---
 
 ### 📈 Badges & Stats
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Divk-Ashwin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
