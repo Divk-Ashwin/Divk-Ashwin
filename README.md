@@ -76,19 +76,12 @@
 ---
 
 ### 📈 Badges & Stats
-![Profile Views](https://komarev.com/ghpvc/?username=Divk-Ashwin&label=Profile%20views&color=0e75b6&style=flat)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Divk-Ashwin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Divk-Ashwin&theme=tokyonight&hide_border)  
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divk-Ashwin&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divk-Ashwin&layout=compact&theme=github_dark&hide_border=true&format=png)
-
-
 
 
 
