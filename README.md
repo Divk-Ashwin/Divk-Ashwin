@@ -82,7 +82,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divk-Ashwin&show_icons=true&theme=github_dark&hide_border=true&format=png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divk-Ashwin&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 💻 Top Languages
 
