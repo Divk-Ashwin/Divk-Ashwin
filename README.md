@@ -80,21 +80,14 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Divk-Ashwin&theme=tokyonight&hide_border)  
 
-<h3>📊 GitHub Stats</h3>
+### 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Divk-Ashwin&show_icons=true&theme=github_dark&hide_border=true"
-  alt="GitHub Stats"
-  height="165"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divk-Ashwin&show_icons=true&theme=github_dark&hide_border=true&format=png)
 
-<h3>💻 Top Languages</h3>
+### 💻 Top Languages
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divk-Ashwin&layout=compact&theme=github_dark&hide_border=true"
-  alt="Top Languages"
-  height="165"
-/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divk-Ashwin&layout=compact&theme=github_dark&hide_border=true&format=png)
+
 
 
 
